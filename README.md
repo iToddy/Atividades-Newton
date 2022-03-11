@@ -1,0 +1,2 @@
+# Atividades-Newton
+Exercício LP 
