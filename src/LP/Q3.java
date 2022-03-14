@@ -11,6 +11,8 @@ public class Q3 {
 		
 		char c;
 		String phrase;
+		String vogals;
+		int numVogals;
 		
 		System.out.println ("Insira sua frase");
 		phrase = entrada.next();
@@ -30,12 +32,12 @@ public class Q3 {
 		
 		if (vogals.contains("A"))
 			numVogals ++;
-		if(vogals.contais("E"))
+		if(vogals.contains("E"))
 			numVogals ++;
 		if (vogals.contains("I"))
 			numVogals ++;
-		if(vogals.contais("O"))
-			numVogals ++
+		if(vogals.contains("O"))
+			numVogals ++;
 		if (vogals.contains("U"))
 				numVogals ++;
 		
